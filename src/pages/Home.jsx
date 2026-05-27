@@ -66,7 +66,7 @@ export default function Home() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKUq8-9m8ZYwV9tMIjQBHzESOb0wXy7hlENA&s"
+                src="https://windowsclub.com.br/wp-content/uploads/2026/05/FORZA-HORIZON-6.jpg"
                 alt="Forza Horizon 6"
               />
 
