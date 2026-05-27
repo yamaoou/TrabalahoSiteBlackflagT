@@ -66,7 +66,7 @@ export default function Home() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://www.pluggedin.com/wp-content/uploads/2021/12/Halo-Infinite-1024x587.png"
+                src="https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/1708091/capsule_616x353.jpg?t=1763578010"
                 alt="Masterchief"
               />
 
