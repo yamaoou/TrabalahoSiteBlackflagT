@@ -66,15 +66,15 @@ export default function Home() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://i.ytimg.com/vi/xk0mxglFWDk/maxresdefault.jpg"
-                alt="Masterchief"
+                src="https://store-images.s-microsoft.com/image/apps.24935.14202278764680089.8e4c786a-0a1c-4737-a244-0bdfa34aab7b.40c11e20-8ff6-4db3-9365-faad9fa06d1a?q=90&w=480&h=270"
+                alt="Forza Horizon 6"
               />
 
               <div className="overlay">
-                <h2>Halo Infinite</h2>
+                <h2>Forza Horizon 6</h2>
 
                 <p>
-                  Halo Infinite anuncia modo battle royale.
+                    Jogadores se surpreendem com a beleza do Forza Horizon 6 
                 </p>
 
                 <Link
