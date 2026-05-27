@@ -89,7 +89,7 @@ export default function Games() {
             margin: "0 auto",
           }}
         >
-          {/* Mapeamos filteredGames em vez de games */}
+          
           {filteredGames.map((game) => (
             <div
               key={game.id}
@@ -130,7 +130,7 @@ export default function Games() {
           ))}
         </div>
 
-        {/* MODAL */}
+        
         {selectedGame && (
           <div
             style={{
