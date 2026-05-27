@@ -66,7 +66,7 @@ export default function Home() {
           <SwiperSlide>
             <div className="slide">
               <img
-                src="https://wpassets.halowaypoint.com/wp-content/2021/12/HaloInfinite_CampaignKeyArt_CLEAN_1920x1080.jpg"
+                src="https://www.pluggedin.com/wp-content/uploads/2021/12/Halo-Infinite-1024x587.png"
                 alt="Masterchief"
               />
 
